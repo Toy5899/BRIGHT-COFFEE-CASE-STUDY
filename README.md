@@ -50,6 +50,8 @@ I created a **Gantt chart using Canva** to plan the activities and timeline for 
 
 I prepared a presentation to communicate the project, dashboard, findings, and key insights.
 
+## Links [https://brew-trends-dash.lovable.app]
+
 ## 🎓 BrightLearn
 
 This case study forms part of my practical learning journey as a **BrightLearn Data Analytics student**, where I am developing my skills in **SQL, data analysis, dashboards, and data visualization**.
